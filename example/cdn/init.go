@@ -1,8 +1,9 @@
 package cdn
 
 import (
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/cdn"
 	"time"
+
+	"github.com/chenyijun266846/byteplus-sdk-golang/service/cdn"
 )
 
 var (

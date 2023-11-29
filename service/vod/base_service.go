@@ -6,12 +6,6 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/base"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/vod/models/business"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/vod/models/request"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/vod/models/response"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/vod/upload/consts"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/vod/upload/model"
 	"hash/crc32"
 	"io"
 	"io/ioutil"
@@ -23,8 +17,15 @@ import (
 	"strings"
 	"time"
 
+	"github.com/chenyijun266846/byteplus-sdk-golang/base"
+	"github.com/chenyijun266846/byteplus-sdk-golang/service/vod/models/business"
+	"github.com/chenyijun266846/byteplus-sdk-golang/service/vod/models/request"
+	"github.com/chenyijun266846/byteplus-sdk-golang/service/vod/models/response"
+	"github.com/chenyijun266846/byteplus-sdk-golang/service/vod/upload/consts"
+	"github.com/chenyijun266846/byteplus-sdk-golang/service/vod/upload/model"
+
 	"github.com/avast/retry-go"
-	model_base "github.com/byteplus-sdk/byteplus-sdk-golang/service/base/models/base"
+	model_base "github.com/chenyijun266846/byteplus-sdk-golang/service/base/models/base"
 
 	"google.golang.org/protobuf/encoding/protojson"
 )

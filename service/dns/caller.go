@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/byteplus-sdk/byteplus-sdk-golang/base"
+	"github.com/chenyijun266846/byteplus-sdk-golang/base"
 	"github.com/pkg/errors"
 )
 

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/live"
+	"github.com/chenyijun266846/byteplus-sdk-golang/service/live"
 )
 
 const (

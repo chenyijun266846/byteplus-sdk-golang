@@ -4,7 +4,7 @@
 
 Suggest to use go version >= 1.13.1
 
-```go get -u github.com/byteplus-sdk/byteplus-sdk-golang```
+```go get -u github.com/chenyijun266846/byteplus-sdk-golang```
 
 ### AK/SK registration procedure
 Main account and privileged sub-account may create AK/SK pair:

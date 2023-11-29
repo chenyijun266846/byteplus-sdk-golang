@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/vod"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/vod/models/request"
+	"github.com/chenyijun266846/byteplus-sdk-golang/service/vod"
+	"github.com/chenyijun266846/byteplus-sdk-golang/service/vod/models/request"
 )
 
 func TestVod_GetSubtitleAuthToken(t *testing.T) {

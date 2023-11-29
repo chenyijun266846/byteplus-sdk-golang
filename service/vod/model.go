@@ -1,7 +1,7 @@
 package vod
 
 import (
-	"github.com/byteplus-sdk/byteplus-sdk-golang/base"
+	"github.com/chenyijun266846/byteplus-sdk-golang/base"
 )
 
 type StartWorkflowRequest struct {

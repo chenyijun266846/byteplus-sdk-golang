@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/byteplus-sdk/byteplus-sdk-golang/base"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/vod"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/vod/models/request"
+	"github.com/chenyijun266846/byteplus-sdk-golang/base"
+	"github.com/chenyijun266846/byteplus-sdk-golang/service/vod"
+	"github.com/chenyijun266846/byteplus-sdk-golang/service/vod/models/request"
 )
 
 func Test_DescribeVodSpaceTranscodeData(t *testing.T) {

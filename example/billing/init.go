@@ -1,7 +1,7 @@
 package billing
 
 import (
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/billing"
+	"github.com/chenyijun266846/byteplus-sdk-golang/service/billing"
 )
 
 var (

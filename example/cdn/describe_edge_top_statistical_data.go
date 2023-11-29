@@ -3,7 +3,7 @@ package cdn
 import (
 	"testing"
 
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/cdn"
+	"github.com/chenyijun266846/byteplus-sdk-golang/service/cdn"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,8 +3,8 @@ package demo_sms
 import (
 	"testing"
 
-	"github.com/byteplus-sdk/byteplus-sdk-golang/base"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/sms"
+	"github.com/chenyijun266846/byteplus-sdk-golang/base"
+	"github.com/chenyijun266846/byteplus-sdk-golang/service/sms"
 )
 
 /*

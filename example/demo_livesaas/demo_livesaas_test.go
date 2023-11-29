@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	livesaas "github.com/byteplus-sdk/byteplus-sdk-golang/service/livesaas"
+	livesaas "github.com/chenyijun266846/byteplus-sdk-golang/service/livesaas"
 )
 
 const (

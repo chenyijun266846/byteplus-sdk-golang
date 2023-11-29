@@ -12,7 +12,7 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/rtc"
+	"github.com/chenyijun266846/byteplus-sdk-golang/service/rtc"
 )
 
 const (

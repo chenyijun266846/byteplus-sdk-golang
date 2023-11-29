@@ -1,6 +1,6 @@
 package sms
 
-import "github.com/byteplus-sdk/byteplus-sdk-golang/base"
+import "github.com/chenyijun266846/byteplus-sdk-golang/base"
 
 type SmsRequest struct {
 	SmsAccount    string
